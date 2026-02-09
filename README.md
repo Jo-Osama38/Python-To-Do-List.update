@@ -53,6 +53,10 @@ advanced features like **AI using Minimax**, multiple board sizes, and a cleaner
 
 ---
 
+## How to use
+- the app in Release 
+
+---
 ## Author
 
 - Youssef Osama
