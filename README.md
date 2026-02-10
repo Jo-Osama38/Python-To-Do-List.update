@@ -54,7 +54,9 @@ advanced features like **AI using Minimax**, multiple board sizes, and a cleaner
 ---
 
 ## How to use
-- the app in Release 
+- Dounload the app in Release
+- Right click --> Open
+- Enjoy 😘😊
 
 ---
 ## Author
